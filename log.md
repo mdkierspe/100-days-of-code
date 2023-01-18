@@ -28,3 +28,9 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 0: January 17th, 2023
+
+**Today's Progress**: Got started with Vue JS crash course: https://www.youtube.com/watch?v=qZXt1Aom3Cs. Ended at timestamp: 24:38.
+
+**Thoughts**: I got much further than I did the last time I attempted to follow along with this walkthrough, I feel much better!
